@@ -2,7 +2,7 @@
 return [
     'settings' => [
         // Slim Settings
-        'displayErrorDetails' => false,
+        'displayErrorDetails' => true,
 
         // View settings
         'view' => [

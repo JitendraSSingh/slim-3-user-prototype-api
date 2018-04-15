@@ -41,6 +41,6 @@ $container['logger'] = function ($c) {
 // Action factories
 // -----------------------------------------------------------------------------
 
-$container[App\Action\HomeAction::class] = function ($c) {
-    return new App\Action\HomeAction($c->get('view'), $c->get('logger'));
+$container[App\Controllers\HomeController::class] = function ($c) {
+    return new App\Controllers\HomeController($c->get('view'), $c->get('logger'));
 };
