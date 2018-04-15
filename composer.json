@@ -1,6 +1,6 @@
 {
     "name": "JitendraSSingh/slim-3-user-prototype-api",
-    "description": "Simple Slim Framework 3 Prototype User Management API",
+    "description": "Simple Slim Framework 3 Prototype Car Models API",
     "type": "project",
     "keywords": ["slim-framework", "REST api"],
     "authors": [
